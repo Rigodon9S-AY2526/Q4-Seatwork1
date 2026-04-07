@@ -1,6 +1,6 @@
 function login() {
-    const u = "admin";
-    const p = "12345";
+    const u = "Room 403";
+    const p = "abcde123";
 
     let userNameInput = document.getElementById("UserName").value;
     let passInput = document.getElementById("Password").value;
